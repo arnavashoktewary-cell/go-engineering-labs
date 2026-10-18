@@ -1,0 +1,11 @@
+# Go builds and local test executables
+*.exe
+*.test
+*.out
+*.prof
+/hello
+/rocket
+# editors/OS
+.vscode/
+.idea/
+.DS_Store
